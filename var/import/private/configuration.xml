@@ -1,9 +1,11 @@
 <root>
     <config>
         <!--NOTE: Nodes are in alphabetical order-->
-       <store_information>
+        <general>
+            <store_information>
                 <name>Stora Rycketofta test</name>
                 <phone>042-22 70 03</phone>
             </store_information>
+        </general>
     </config>
 </root>
